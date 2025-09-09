@@ -21,7 +21,7 @@ Quick Play
 
 No installation needed!
 
-Open the provided [web build link](https://) in your browser.
+Open the provided [web build link](https://ravis-world.github.io/Undercurrent%20Of%20Time/Undercurrent%20of%20Time.html) in your browser.
 
 The game will launch instantly.
 

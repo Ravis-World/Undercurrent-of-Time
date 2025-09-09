@@ -17,21 +17,21 @@ The journey is non-linear:
 Running the Project
 -------------------
 
-Quick Play
+### Quick Play
 
-No installation needed!
+* No installation needed!
 
-Open the provided [web build link](https://ravis-world.github.io/Undercurrent%20Of%20Time/Undercurrent%20of%20Time.html) in your browser.
+    1. Open the provided [web build link](https://ravis-world.github.io/Undercurrent%20Of%20Time/Undercurrent%20of%20Time.html) in your browser.
 
-The game will launch instantly.
+    2. The game will launch instantly.
 
-Local Play (Optional)
+* Local Play (Optional)
 
-Download undercurrent.html from the releases section.
+    1. Download undercurrent.html from the releases section.
 
-Double-click it (or drag into a browser).
+    2. Double-click it (or drag into a browser).
 
-Play directly — everything runs offline in your browser.
+    3. Play directly — everything runs offline in your browser.
 
 🎮 Gameplay
 -----------

@@ -27,9 +27,9 @@ Running the Project
 
 * Local Play (Optional)
 
-    1. Download undercurrent.html from the releases section.
+    1. Download undercurrent.deck from the releases section.
 
-    2. Double-click it (or drag into a browser).
+    2. Open it in the [Decker Demo App](https://beyondloom.com/decker/tour.html).
 
     3. Play directly — everything runs offline in your browser.
 

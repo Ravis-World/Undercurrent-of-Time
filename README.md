@@ -27,7 +27,7 @@ Running the Project
 
 * Local Play (Optional)
 
-    1. Download undercurrent.deck from the releases section.
+    1. Download Undercurrent Of Time.deck from the repository.
 
     2. Open it in the [Decker Demo App](https://beyondloom.com/decker/tour.html).
 
